@@ -1,6 +1,6 @@
 # LFSR-and-Stream-Cipher
 
-StreamCipher.m encrypts an image using Shannon's One time key method. A message of m-bits XOR'd with a key of perfectly random number of m-bits to create a ciphertext
+StreamCipher.m encrypts an image using Shannon's One time key method. A message of m-bits XOR'd with a key of perfectly random numbers of m-bits to create a ciphertext
 
 Example - Orignal Image, Encrypted Image, Decrypted Image
 
